@@ -18,3 +18,6 @@ The application fetches a list of photos from a public API, displays them in a f
 * [cite_start]**Styling:** Tailwind CSS [cite: 62]
 * **State Management:** `useState`, `useReducer`, `useEffect`
 * **Performance Optimisation:** `useMemo`, `useCallback`
+
+## Author
+* Soumilya Roy B.Tech in Electronics and Computer Science
