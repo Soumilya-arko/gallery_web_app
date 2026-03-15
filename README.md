@@ -1,4 +1,4 @@
-# Celebrare Photo Gallery
+# Photo Gallery App
 
 A responsive photo gallery web application built with React, Vite, and Tailwind CSS. This project was developed as a pre-screening assignment for the Frontend React Internship at Celebrare.
 
@@ -20,4 +20,4 @@ The application fetches a list of photos from a public API, displays them in a f
 * **Performance Optimisation:** `useMemo`, `useCallback`
 
 ## Author
-* Soumilya Roy B.Tech in Electronics and Computer Science
+Soumilya Roy, B.Tech in Electronics and Computer Science
